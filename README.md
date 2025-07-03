@@ -5,6 +5,7 @@
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/thomas-ngoleni)
 
 Some Achievements 
+
 🔹 1. Designing Customer Journey Analysis Dashboard
 Tools: Power BI, Python (or Excel)
 
