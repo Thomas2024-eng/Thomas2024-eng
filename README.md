@@ -6,15 +6,16 @@
 
 Some Achievements 
 
-🔹 1. Designing Customer Journey Analysis Dashboard
-Tools: Power BI, Python (or Excel)
+Reduced deal registration errors by 35% through implementation of a standardized intake and tracking process, ensuring smoother client onboarding and higher accuracy in records.
 
-🔹 2. Designing Marketing Campaign Performance Tracker
-Tools: Python, Excel, Tableau or Power BI
+Created onboarding and client-acquisition dashboards that improved visibility of bottlenecks and increased SLA adherence by 20%, enabling proactive issue resolution and better stakeholder communication.
 
-This achievement stands out because it blended my strengths in data analytics, customer experience strategy, and stakeholder engagement, demonstrating my ability to turn insights into real, measurable impact for both the business and the customer.
+Supported successful onboarding and activation of over 200 high-value clients in a 12-month period, contributing to 15% year-over-year growth in Priority segment, demonstrating ability to handle complex, high-value deal flows.
 
-<!---
-Thomas2024-eng/Thomas2024-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Led the development of a comprehensive customer journey analytics framework that improved customer satisfaction scores by 20%, showing capability to analyze and improve operational processes impacting partner/client experience.
+
+Implemented a Voice of Customer (VoC) program that identified key dissatisfaction drivers and boosted NPS by 15%, reflecting experience in feedback-driven program improvements relevant to partner program compliance and satisfaction.
+
+Built and maintained detailed operational documentation and training materials to enhance team efficiency and ensure process consistency, crucial for scaling partnership program operations.
+
+Collaborated with cross-functional teams (Sales, Product, Compliance) to ensure full alignment on deal qualifications and incentive claims, reducing lost rebates and missed opportunities, a direct fit for the role’s core responsibilities.
