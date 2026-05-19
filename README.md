@@ -1,21 +1,60 @@
-### Hi there 👋 I'm Thomas Ngoleni
-- 🔭 I’m currently working on: digital project dashboards and customer analytics
-- 🌱 Learning: marketing analytics, Git, and cloud data tools
-- 💬 Ask me about: data-driven strategy, customer insights, and CX optimization
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/thomas-ngoleni)
+Why Sales Operations
+How my experience maps to revenue operations excellence
+📊
+Revenue Analytics & Reporting
+Enterprise dashboards tracking KPIs, pipeline metrics, velocity, and productivity — enabling leadership to act on data, not intuition.
 
-Some Achievements 
+🔄
+Scalable Process Design
+Robust, repeatable processes that drive revenue predictability. Automated workflows achieving 30% cycle time reduction.
 
-Reduced deal registration errors by 35% through implementation of a standardized intake and tracking process, ensuring smoother client onboarding and higher accuracy in records.
+🎯
+Customer Retention & Growth
+Segmentation and behavioral analytics that maximize net customer retention, cross-sell, and upsell effectiveness.
 
-Created onboarding and client-acquisition dashboards that improved visibility of bottlenecks and increased SLA adherence by 20%, enabling proactive issue resolution and better stakeholder communication.
+🤝
+Cross-Functional Partnership
+Partnering with sales, marketing, product, finance, and operations to embed insight-driven decisioning across the business.
 
-Supported successful onboarding and activation of over 200 high-value clients in a 12-month period, contributing to 15% year-over-year growth in Priority segment, demonstrating ability to handle complex, high-value deal flows.
+📈
+Forecasting & Planning
+Volume forecasting models using historical trends and seasonality, enabling better resource allocation and revenue planning.
 
-Led the development of a comprehensive customer journey analytics framework that improved customer satisfaction scores by 20%, showing capability to analyze and improve operational processes impacting partner/client experience.
+🌍
+Global & Remote Ready
+Effective in distributed environments with strong written communication, digital collaboration, and self-driven execution.
 
-Implemented a Voice of Customer (VoC) program that identified key dissatisfaction drivers and boosted NPS by 15%, reflecting experience in feedback-driven program improvements relevant to partner program compliance and satisfaction.
-
-Built and maintained detailed operational documentation and training materials to enhance team efficiency and ensure process consistency, crucial for scaling partnership program operations.
-
-Collaborated with cross-functional teams (Sales, Product, Compliance) to ensure full alignment on deal qualifications and incentive claims, reducing lost rebates and missed opportunities, a direct fit for the role’s core responsibilities.
+Impact & Results
+Measurable outcomes through data-driven sales operations
++18%
+Increased customer engagement and conversion through segmentation, targeted campaigns, and data-driven experimentation — directly applicable to sales pipeline optimization.
++15%
+Improved customer experience (NPS) by developing a Voice of Customer analytics framework — demonstrating ability to drive net customer retention.
+30%
+Reduced reporting cycle time through automation and structured data extraction — showcasing process improvement and operational efficiency.
+Real-time
+Built dashboards and insight frameworks enabling real-time tracking of performance, campaign effectiveness, and engagement metrics.
+↑ ROI
+Identified high-value segments and behavioral triggers that improved cross-sell and upsell effectiveness — directly transferable to revenue operations.
+Core Competencies
+Revenue operations capabilities aligned to global tech environments
+Revenue Operations & Analytics
+Pipeline, Velocity & Productivity Metrics
+Sales Forecasting & Territory Planning
+Performance Reviews & Variance Analysis
+Commission & Goal Tracking
+Customer Retention & Segmentation
+Net Customer Retention Optimization
+Behavioral Profiling & Lifecycle Analytics
+Next Best Action & Personalization
+Churn Prediction & Intervention Design
+Process & Systems Optimization
+CRM Data Quality & Governance
+Workflow Automation & Efficiency
+Scalable, Repeatable Process Design
+Data Validation & Control Frameworks
+Leadership & Stakeholder Engagement
+Executive Reporting & Insight Storytelling
+Team Management & Mentoring
+Cross-Functional Collaboration
+Change Management & Enablement
