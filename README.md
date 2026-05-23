@@ -1,3 +1,8 @@
+Customer-focused operations and support professional with 12+ years of experience supporting customer engagement, operational performance, issue resolution and business growth within fast-paced financial and service environments. Strong background in customer communication, CRM management, workflow optimization and data-driven problem solving, with proven ability to manage high-volume stakeholder interactions while maintaining responsiveness and attention to detail.
+Experienced collaborating across sales, operations, analytics and leadership teams to improve customer experience, streamline processes and deliver measurable operational improvements. Adept at working in structured, performance-driven environments requiring ownership, documentation, clear communication and proactive follow-up.
+
+Below are key Attributes;
+
 Why Sales Operations?
 How my experience maps to cutsomer support and revenue operations excellence
 📊
