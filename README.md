@@ -1,5 +1,5 @@
-Why Sales Operations
-How my experience maps to revenue operations excellence
+Why Sales Operations?
+How my experience maps to cutsomer support and revenue operations excellence
 📊
 Revenue Analytics & Reporting
 Enterprise dashboards tracking KPIs, pipeline metrics, velocity, and productivity — enabling leadership to act on data, not intuition.
